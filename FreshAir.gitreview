@@ -1,0 +1,4 @@
+[gerrit]
+host=gerrit
+project=FreshAir
+defaultremote=origin
